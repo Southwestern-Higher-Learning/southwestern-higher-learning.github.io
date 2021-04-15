@@ -37,3 +37,5 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
+
+site_url: https://southwestern-higher-learning.github.io/
