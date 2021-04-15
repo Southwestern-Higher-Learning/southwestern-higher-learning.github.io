@@ -32,6 +32,9 @@ nav:
     - Getting Started: developers/getting-started.md
     - Backend:
       - Introduction: developers/backend/introduction.md
+      - Using Google: developers/backend/using-google.md
+      - Google Setup: developers/backend/google-setup.md
+      - Local Setup: developers/backend/local-setup.md
 
 markdown_extensions:
   - toc:
