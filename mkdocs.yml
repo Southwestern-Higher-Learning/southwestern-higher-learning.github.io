@@ -30,6 +30,8 @@ nav:
     - Reporting: user/reporting.md
   - Developer Guide:
     - Getting Started: developers/getting-started.md
+    - Frontend:
+      - Introduction: developers/frontend/introduction.md
     - Backend:
       - Introduction: developers/backend/introduction.md
       - Using Google: developers/backend/using-google.md
