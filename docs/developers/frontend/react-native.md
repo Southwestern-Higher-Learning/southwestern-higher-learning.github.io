@@ -1,0 +1,3 @@
+## Downloading React Native
+
+To get started with React Native, a few commands will be need to run on your machines terminal. Begin by creating a new folder on your machine. This will act as the project directory. Open up your devices terminal and run the command "cd .." until the root directory is reached it is here you will will then you will change directories to the folder you just created, so the command is "cd folder-name". 
