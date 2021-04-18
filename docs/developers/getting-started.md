@@ -4,7 +4,9 @@ There are three components to the project: a frontend, a backend, and an admin i
 
 ## Frontend
 
-The frontend is a React-Native application built with Expo
+The frontend is a React Native application built with Expo.
+
+[Introduction to the Frontend](/developers/frontend/introduction)
 
 ## Backend
 
