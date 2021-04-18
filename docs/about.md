@@ -11,7 +11,7 @@ Written by the following of the 2021 Computer Science Capstone at Southwestern U
 
 ### Backend Team
 
- - Jake Gutierrez: [Personal Website](https://jakegut.com)
+ - Jake Gutierrez: <a href="https://jakegut.com" target="_blank">Personal Website</a>
  - Dominic Blea
  - Guy Greathouse
 
@@ -34,4 +34,4 @@ We'd also like to thank our instructor and supervisor for this capstone project:
 ## Copyright Information
 
 Copyright © 2021 by Southwestern University Computer Science 2021 Capstone
-All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law 
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
