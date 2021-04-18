@@ -30,6 +30,9 @@ nav:
     - Reporting: user/reporting.md
   - Developer Guide:
     - Getting Started: developers/getting-started.md
+    - Frontend:
+      - Introduction: developers/frontend/introduction.md
+      - Downloading React Native: developers/frontend/react-native.md 
     - Backend:
       - Introduction: developers/backend/introduction.md
       - Using Google: developers/backend/using-google.md
