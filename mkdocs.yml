@@ -32,7 +32,7 @@ nav:
     - Getting Started: developers/getting-started.md
     - Frontend:
       - Introduction: developers/frontend/introduction.md
-      - Downloading React Native: developers/frontend/react-native.md 
+      - Downloading React Native: developers/frontend/initial-downloads.md
     - Backend:
       - Introduction: developers/backend/introduction.md
       - Using Google: developers/backend/using-google.md
