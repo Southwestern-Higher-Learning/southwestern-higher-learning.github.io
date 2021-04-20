@@ -2,7 +2,7 @@ site_name: SU Tutor App
 theme:
   name: material
   features:
-    - navigation.instant
+    - navigation.tabs
   # Light mode
   palette:
     - deep orange: "(prefers-color-scheme: light)"
@@ -32,11 +32,13 @@ nav:
     - Getting Started: developers/getting-started.md
     - Frontend:
       - Introduction: developers/frontend/introduction.md
+      - Downloading React Native: developers/frontend/react-native.md 
     - Backend:
       - Introduction: developers/backend/introduction.md
       - Using Google: developers/backend/using-google.md
       - Google Setup: developers/backend/google-setup.md
       - Local Setup: developers/backend/local-setup.md
+      - Structure: developers/backend/structure.md
 
 markdown_extensions:
   - toc:
