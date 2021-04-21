@@ -33,6 +33,7 @@ nav:
     - Frontend:
       - Introduction: developers/frontend/introduction.md
       - Getting Started: developers/frontend/initial-downloads.md
+      - Styling Guide: developers/frontend/styling-guide.md
     - Backend:
       - Introduction: developers/backend/introduction.md
       - Using Google: developers/backend/using-google.md
