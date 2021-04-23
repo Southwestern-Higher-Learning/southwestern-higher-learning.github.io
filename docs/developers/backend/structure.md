@@ -18,9 +18,9 @@ TutorAppBackend/
 │   │   │   ├── pydnatic.py
 │   │   │   ├── tortoise.py  -- Define new models for TortoiseORM
 │   │   │   └── utils.py
-│   │   ├── config.py -- Other configuration shouldn't need
-│   │   ├── db.py -- configure database connection
-│   │   └── main.py -- Setup routes and extensions, and start
+│   │   ├── config.py   -- Other configuration shouldn't need
+│   │   ├── db.py       -- configure database connection
+│   │   └── main.py     -- Setup routes and extensions, and start
 │   ├── db/
 │   │   └── <files for local database development>
 │   ├── .coverage
@@ -35,6 +35,6 @@ TutorAppBackend/
 │   ├── rquirements.txt
 │   └── setup.cfg
 ├── .env
-├── .docker-compose.yml
-└── tutorappcred.json     -- If using Cloud SQL Proxy
+├── docker-compose.yml
+└── tutorappcreds.json     -- If using Cloud SQL Proxy
 ```

@@ -39,6 +39,7 @@ nav:
       - Google Setup: developers/backend/google-setup.md
       - Local Setup: developers/backend/local-setup.md
       - Structure: developers/backend/structure.md
+      - Using the Docs: developers/backend/using-docs.md
 
 markdown_extensions:
   - toc:
