@@ -41,6 +41,9 @@ nav:
       - Local Setup: developers/backend/local-setup.md
       - Structure: developers/backend/structure.md
       - Using the Docs: developers/backend/using-docs.md
+    - Admin:
+      - Introduction: developers/admin/introduction.md
+      - Setup: developers/admin/setup.md
 
 markdown_extensions:
   - toc:

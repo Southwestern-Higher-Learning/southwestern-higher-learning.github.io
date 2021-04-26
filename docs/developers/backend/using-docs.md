@@ -20,3 +20,7 @@ You might notice locks around certain routes. These locks indicate that the rout
 
 This access token is used in the headers of your request, where you can set the `Authorize` header to `Bearer <access_token>`. The documentation website takes care of this. Near the top of the page, there is a green `Authorize` button. Click on that and fill out the `Value` box with the access token from `http://localhost:8080/auth/code/client`. Click on `Authorize` and then `Close` will let you access the protected routes. To verify that your access token is correct, go to the `/user/me` route try it out. The response should be your specific user information.
 
+## Wrapping Up
+
+Now that you have your docs authorized, you're now able to use any of the routes (except ones requiring a superuser permission).
+
