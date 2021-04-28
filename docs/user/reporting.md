@@ -6,7 +6,7 @@ A core principal in this app is that Southwestern Students abide by the [Student
 
 If a user has an inappropriate about me section there is a modal that will pop up that will allow the user to report an about me section for an inappropriate profile image, about me section, or for incorrect profile information. The user can select the issue accordingly and it will be reported to the university.
 
-TODO: Insert Screen shot
+![report](/assets/be/report.jpg)
 
 ## When to Report a Review
 
