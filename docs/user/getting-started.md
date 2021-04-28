@@ -24,7 +24,7 @@ In order to proceed further into the app the terms and conditions laid out in th
 
 Once you are logged in you will be brought to the home screen.Please note that the resources and links provided on the home screen are subject to change depending on what sources have been provided by Southwestern University and their associated departments that offer tutoring. 
 
-![homepage](/assets/fe/honorcode.PNG)
+![homepage](/assets/fe/homepage.PNG)
 
 From the home screen you can use the yellow navigation bar at the bottom of the page to navigate to a screen that will let you search for a tutor and your profile screen. 
 
