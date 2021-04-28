@@ -16,6 +16,10 @@ Once Node.js is downloaded you will need to install [Expo](https://docs.expo.io/
 
 The easiest way to open the code for this application is to clone the repository using git. You can clone this project into the project directory you created earlier. You can clone the repository in your IDE, we recommend using Visual Studio code.   
 
-## Run code
+### Install Packages
+
+Now that you have node.js and the base requirements, open a terminal and navigate to though source directory. At that point, you can run the command `npm install`. This command will look through package.json file and download all the necessary packages to build the application.
+
+### Run code
 
 To see the client side portion open the code in your IDE and open up a terminal and make sure you are in the project directory. Run the command 'npm install' then 'npm run start'. From here a window should pop up in your web browser. The page should contain a QR code. Before scanning the QR code make sure you download the app Expo Go which can be downloaded from the App Store and the Google Play Store. Expo Go will let you see any real changes that you make to the code in real time. Expo may require for you to create an account and log in in order to see the full functionality of the app and log in this can be done [through the sign up page](https://expo.io/signup) which will give provide more instructions on creating an.
