@@ -3,7 +3,7 @@
 When searching for tutors, you are able to search either by course subject or by the specific tutor you would like to go to. When you click the search bar, a drop down with those options will
 appear and then you can choose from them and search in whichever way you would like. 
 
-![searchScreen](/assets/fe/searchScreen.jpg)
+![searchScreen](\assets\fe\searchScreen.JPG)
 
 ## What happens after I book a session?
 
