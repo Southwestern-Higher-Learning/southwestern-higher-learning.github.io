@@ -29,6 +29,7 @@ nav:
     - Getting Started: user/getting-started.md
     - Reporting: user/reporting.md
     - Edit Profile: user/edit-profile.md
+    - Searching and Booking Tutors: user/searching-booking.md
   - Developer Guide:
     - Getting Started: developers/getting-started.md
     - Frontend:
